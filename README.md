@@ -6,11 +6,18 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ERSA OKTAVIAN RAMADAN
+## 2241720028
+## TI 3C / 09
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Hasil Praktikum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Praktikum 5: Membangun Navigasi di Flutter
+
+
+Langkah 1 - Mendefinisikan Route dan Membuat file main.dart
+
+
+D:\Belajar\Mobile Programming\Week 7.1\belanja\images result\home_page v1.png
+
