@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## ERSA OKTAVIAN RAMADAN
 ## 2241720028
-## TI 3C / 09
+TI 3C / 09
 
 ## Hasil Praktikum
 
